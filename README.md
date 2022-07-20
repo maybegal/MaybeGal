@@ -12,5 +12,4 @@
 - 💬 Ask me about: Website and FiveM development.
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
 - 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
-- ⚡ Fun fact: 
 - 📺 My favourite TV shows: Breaking Bad, Silicon Valley, Better Call Saul and S.W.A.T.
