@@ -13,3 +13,5 @@
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
 - 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
 - 📺 My favourite TV shows: Breaking Bad, Silicon Valley, Better Call Saul and S.W.A.T.
+- 🚗 My dream car: Nissan Skyline GTR R34.
+
