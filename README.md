@@ -11,4 +11,6 @@
 - 😄 My Pronouns: He/Him 
 - 💬 Ask me about: Building a websites and fivem servers and scripts.
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
-- ⚡ Fun fact: I enjoy playing guiter, gaming with friends and developing websites.
+- 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
+- ⚡ Fun fact: 
+- 📺 My favourite TV shows: Breaking Bad, Silicon Valley, Better Call Saul and S.W.A.T.
