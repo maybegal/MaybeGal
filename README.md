@@ -9,7 +9,7 @@
 ✨ I'm a 14 years old Full-Stack developer. 
 
 - 😄 My Pronouns: He/Him 
-- 💬 Ask me about: Building a websites and fivem servers and scripts.
+- 💬 Ask me about: Website and FiveM development.
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
 - 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
 - ⚡ Fun fact: 
