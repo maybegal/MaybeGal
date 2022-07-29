@@ -6,10 +6,10 @@
 </p>
 
 ---
-✨ I'm a 14 years old Full-Stack developer. 
+✨ I'm a 14 years old Front-End developer. 
 
 - 😄 My Pronouns: He/Him 
-- 💬 Ask me about: Website and FiveM development.
+- 💬 Ask me about: Web development.
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
 - 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
 - 📺 My favourite TV shows: Breaking Bad, Silicon Valley, Better Call Saul and S.W.A.T.
