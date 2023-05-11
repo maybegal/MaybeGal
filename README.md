@@ -1,12 +1,12 @@
 
-<h3 align="center">👋 Hello! I'm Gal, at least I think I'm Gal, just say MaybeGal.</h3>
+<h3 align="center">👋 Hello! I'm Gal, CEO & Founder of ReWeb.</h3>
 <p align="center">
   <a href="https://maybegal.netlify.app/">Website</a> •
   <a href="https://galsohp.netlify.app/">Shop</a>
 </p>
 
 ---
-✨ I'm a 15 years old Front-End developer, from Israel. CEO & Founder of ReWeb.
+✨ I'm a 15 years old Front-End developer, from Israel.
 
 - 💬 Ask me about: Web development.
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
