@@ -6,12 +6,10 @@
 </p>
 
 ---
-✨ I'm a 15 years old Front-End developer from Israel.
-✨ CEO & Founder of ReWeb.
+✨ I'm a 15 years old Front-End developer, from Israel. CEO & Founder of ReWeb.
 
-- 😄 My Pronouns: He/Him 
 - 💬 Ask me about: Web development.
 - 📫 How to reach me: [@MaybeGall](https://twitter.com/MaybeGall)
-- 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
-- 📺 My favourite TV shows: Breaking Bad, Silicon Valley, Better Call Saul and S.W.A.T.
-- 🚗 My dream car: Nissan Skyline GTR R34.
+- 🎮 My favourite video games: CS:GO, Assetto Corsa, Deceit and FiveM.
+- 📺 My favourite TV shows: Better Call Saul, Silicon Valley, Breaking Bad and S.W.A.T.
+- 🚗 My dream cars: Nissan Skyline GTR R34, Audi RS3 2022 and BMW M5 Competition.
