@@ -6,7 +6,8 @@
 </p>
 
 ---
-✨ I'm a 15 years old Front-End developer. 
+✨ I'm a 15 years old Front-End developer from Israel.
+✨ CEO & Founder of ReWeb.
 
 - 😄 My Pronouns: He/Him 
 - 💬 Ask me about: Web development.
@@ -14,5 +15,3 @@
 - 🎮 My favourite video games: CS:GO, Deceit, Assetto Corsa and FiveM.
 - 📺 My favourite TV shows: Breaking Bad, Silicon Valley, Better Call Saul and S.W.A.T.
 - 🚗 My dream car: Nissan Skyline GTR R34.
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/772178771469533225)](https://discord.com/users/772178771469533225)
