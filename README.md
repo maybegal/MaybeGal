@@ -1,11 +1,10 @@
-
 <h3 align="center">👋 Hello! I'm Gal, CEO & Founder of ReWeb.</h3>
 <p align="center">
-  <a href="https://maybegal.netlify.app/">Website</a> •
-  <a href="https://galsohp.netlify.app/">Shop</a>
+  <a href="https://discord.gg/csAXP8VxRM">ReWeb Discord</a>
 </p>
 
 ---
+
 ✨ I'm a 15 years old Front-End developer, from Israel.
 
 - 💬 Ask me about: Web development.
