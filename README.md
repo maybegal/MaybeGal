@@ -12,3 +12,6 @@
 - 🎮 My favorite video games: CS:GO, Assetto Corsa, Deceit and FiveM.
 - 📺 My favorite TV shows: Better Call Saul, Silicon Valley, Breaking Bad and S.W.A.T.
 - 🚗 My dream cars: Nissan Skyline GTR R34, Audi RS3 2022 and BMW M5 Competition.
+
+---
+[![](https://visitcount.itsvg.in/api?id=maybegal&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
