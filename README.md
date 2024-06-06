@@ -14,13 +14,14 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/csAXP8VxRM) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maybegall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maybegal) 
 
 ## 💻 Tech Stack
-### Programming Languages
+### 🛠️ Programming Languages
 ![image](	https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-### Frameworks
+
+### 🧰 Frameworks and Libraries
 ![image](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![image](	https://img.shields.io/badge/Astro-0C1222?style=flat&logo=astro&logoColor=FDFDFE)
@@ -32,15 +33,15 @@
 ![image](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/bun-282a36?style=flat&logo=bun&logoColor=fbf0df)
 
-### Database
+### 🗄️ Databases
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=white)
 
-### Cloud
+### ☁️ Cloud Services
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🚀 Design
+### 🎨 Design Tools
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
